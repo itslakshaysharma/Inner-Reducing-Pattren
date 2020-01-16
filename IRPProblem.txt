@@ -1,0 +1,13 @@
+In this problem, you need to print the pattern of the following form containing the numbers from 1 to n.
+If n is 2 then pattren will be
+222
+212
+222
+Sample Input- 4
+4444444
+4333334
+4322234
+4321234
+4322234
+4333334
+4444444
